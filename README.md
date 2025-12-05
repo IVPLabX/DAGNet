@@ -80,7 +80,7 @@ By running the script, the detection results of the sample images will be saved 
 
 ## Citation
 If you find our work useful for your research, please consider citing our paper:
-```
+```bibtex
 @ARTICLE{2023TII_DAGNet,
   title     =  {Differentiated Attention Guided Network Over Hierarchical and Aggregated Features for Intelligent {UAV} Surveillance},
   author    =  {Houzhang Fang and Zikai Liao and Xuhua Wang and Yi Chang and Luxin Yan},
@@ -92,7 +92,7 @@ If you find our work useful for your research, please consider citing our paper:
 }
 ```
 In additoin to the above paper, please also consider citing the following references. Thank you!
-```
+```bibtex
 @inproceedings{2025CVPR_UniCD,
     title     = {Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared {UAV} Target Detection},
     author    = {Houzhang Fang and Xiaolin Wang and Zengyang Li and Lu Wang and Qingshan Li and Yi Chang and Luxin Yan},
