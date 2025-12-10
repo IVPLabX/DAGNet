@@ -1,6 +1,21 @@
-Source code for the TII 2023 paper "Differentiated Attention Guided Network Over Hierarchical and Aggregated Features for Intelligent UAV Surveillance".
+<div align="center">
+  
+## Differentiated Attention Guided Network Over Hierarchical and Aggregated Features for Intelligent UAV Surveillance
 
-## Differentiated Attention Guided Network Over Hierarchical and Aggregated Features for Intelligent UAV Surveillance [[PDF](https://ieeexplore.ieee.org/document/10018470/)], Supplemental Material [[PDF](https://ieeexplore.ieee.org/document/10018470/media#media)] 
+Authors: Houzhang Fang<sup>1</sup>, Zikai Liao<sup>1</sup>, Xuhua Wang<sup>1</sup>, Yi Chang<sup>2</sup>, Luxin Yan<sup>2</sup>
+  
+<sup>1</sup>Xidian University,  <sup>2</sup>Huazhong University of Science and Technology
+
+**IEEE Transactions on Industrial Informatics (TII) 2023**
+
+<h4>
+  <a href="https://ieeexplore.ieee.org/document/10018470/">[PDF|IEEE]</a>
+  <a href="https://ieeexplore.ieee.org/document/10018470/media#media">[Supplementary Material]</a>
+  <a href="#citation">[BibTex]</a>
+</h4>
+
+</div>
+
 
 ## Abstract
 
