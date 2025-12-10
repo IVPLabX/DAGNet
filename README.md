@@ -113,7 +113,8 @@ In additoin to the above paper, please also consider citing the following refere
     author    = {Houzhang Fang and Xiaolin Wang and Zengyang Li and Lu Wang and Qingshan Li and Yi Chang and Luxin Yan},
     booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     year      = {2025},
-    pages     = { },
+    month     =  {June},
+    pages     = {11898-11907},
 }
 @inproceedings{2023ACMMM_DANet,
 title       =  {{DANet}: Multi-scale {UAV} Target Detection with Dynamic Feature Perception and Scale-aware Knowledge Distillation},
