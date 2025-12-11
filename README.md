@@ -9,7 +9,7 @@ Authors: Houzhang Fang<sup>1</sup>, Zikai Liao<sup>1</sup>, Xuhua Wang<sup>1</su
 **IEEE Transactions on Industrial Informatics (TII) 2023**
 
 <h4>
-  <a href="https://ieeexplore.ieee.org/document/10018470/">[PDF|IEEE]</a>
+  <a href="https://ieeexplore.ieee.org/document/10018470/">[Paper PDF|IEEE]</a>
   <a href="https://ieeexplore.ieee.org/document/10018470/media#media">[Supplementary Material]</a>
   <a href="#citation">[BibTex]</a>
 </h4>
